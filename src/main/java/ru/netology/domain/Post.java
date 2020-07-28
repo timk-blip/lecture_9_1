@@ -227,10 +227,4 @@ public class Post {
         this.geoInfo = geoInfo;
     }
 
-
-    //    private String imageUrl;
-//    private String groupName;
-//    private String postAction;
-//    private int date;
-//    private boolean friendsOnly;
 }
